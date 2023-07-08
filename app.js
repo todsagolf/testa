@@ -8,7 +8,7 @@ app.use(morgan('combined'));
 
 app.get('/', (req, res) => {
 
-res.send('Hello World! สวัสดีจ้า');
+res.send('Hello World! สวัสดีจ้าdddd');
 
 });
 
